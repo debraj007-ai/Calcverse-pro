@@ -1,0 +1,6 @@
+{
+  "name": "CalcVerse",
+  "description": "A premium scientific calculator web application mimicking a professional handheld device with tactile button animations, scientific formula guides, solvers, statistics, unit and currency converters, and beautiful customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
